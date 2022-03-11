@@ -1,2 +1,2 @@
-# Pythonic-Monipoly
+# Pythonic-Monopoly
 Pyviz_homework
